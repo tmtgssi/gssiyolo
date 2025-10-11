@@ -1,0 +1,905 @@
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+epoch 1 iter 196: D1_loss 0.05964. | D2_loss 0.39628. | [1m[35mD_Total_loss[0m 4.55922. | L1_loss 0.13326 | Perceptual_loss 2.46820. | style_loss 0.00077. | Edge_loss 0.04935 | HSV_Total_loss 0.92172 | G_loss 0.08404. | [1m[35mG_Total_loss[0m 12.65280. | lr 2.000000e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+[1m[34m------------------------------------------------------------------[0m
+[1m[31mWarnning: There is no trained model found. An initialized model will be used.[0m
+[1m[31mWarnning: There is no previous optimizer found. An initialized optimizer will be used.[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Resume from Epoch 0
+epoch 1 iter 196: D1_loss 0.06228. | D2_loss 0.50159. | [1m[35mD_Total_loss[0m 5.63872. | L1_loss 0.12357 | Perceptual_loss 2.44449. | style_loss 0.00074. | Edge_loss 0.04405 | HSV_Total_loss 0.97610 | G_loss 0.06164. | [1m[35mG_Total_loss[0m 12.36138. | lr 2.000000e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 1 : current_PSNR 16.60528. | best_epoch 1 : best_PSNR 16.60528.
+current_epoch 1 : current_SSIM 0.56131.  | best_epoch 1 : best_SSIM 0.56131.
+current_epoch 1 : current_LPIPS 0.47573. | best_epoch 1 : best_LPIPS 0.47573.
+This epoch cost 289.83402 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 2 iter 392: D1_loss 0.10826. | D2_loss 0.41696. | [1m[35mD_Total_loss[0m 5.25218. | L1_loss 0.15015 | Perceptual_loss 1.82254. | style_loss 0.00080. | Edge_loss 0.06248 | HSV_Total_loss 1.21013 | G_loss 0.14679. | [1m[35mG_Total_loss[0m 11.69041. | lr 4.000000e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 2 : current_PSNR 16.33750. | best_epoch 1 : best_PSNR 16.60528.
+current_epoch 2 : current_SSIM 0.65662.  | best_epoch 2 : best_SSIM 0.65662.
+current_epoch 2 : current_LPIPS 0.37400. | best_epoch 2 : best_LPIPS 0.37400.
+This epoch cost 287.70233 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 3 iter 588: D1_loss 0.10975. | D2_loss 0.35578. | [1m[35mD_Total_loss[0m 4.65527. | L1_loss 0.14981 | Perceptual_loss 1.65054. | style_loss 0.00090. | Edge_loss 0.06697 | HSV_Total_loss 1.07935 | G_loss 0.10816. | [1m[35mG_Total_loss[0m 8.47121. | lr 6.000000e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 3 : current_PSNR 16.72413. | best_epoch 3 : best_PSNR 16.72413.
+current_epoch 3 : current_SSIM 0.70014.  | best_epoch 3 : best_SSIM 0.70014.
+current_epoch 3 : current_LPIPS 0.32727. | best_epoch 3 : best_LPIPS 0.32727.
+This epoch cost 282.04015 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 4 iter 784: D1_loss 0.09868. | D2_loss 0.37501. | [1m[35mD_Total_loss[0m 4.73688. | L1_loss 0.14433 | Perceptual_loss 1.60937. | style_loss 0.00080. | Edge_loss 0.06035 | HSV_Total_loss 1.18058 | G_loss 0.10109. | [1m[35mG_Total_loss[0m 6.17164. | lr 8.000000e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 4 : current_PSNR 15.79751. | best_epoch 3 : best_PSNR 16.72413.
+current_epoch 4 : current_SSIM 0.70284.  | best_epoch 4 : best_SSIM 0.70284.
+current_epoch 4 : current_LPIPS 0.35722. | best_epoch 3 : best_LPIPS 0.32727.
+This epoch cost 283.41073 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 5 iter 980: D1_loss 0.09827. | D2_loss 0.35194. | [1m[35mD_Total_loss[0m 4.50202. | L1_loss 0.13669 | Perceptual_loss 1.39584. | style_loss 0.00077. | Edge_loss 0.05536 | HSV_Total_loss 1.14001 | G_loss 0.11571. | [1m[35mG_Total_loss[0m 5.33105. | lr 1.000000e-03
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 5 : current_PSNR 16.99207. | best_epoch 5 : best_PSNR 16.99207.
+current_epoch 5 : current_SSIM 0.73348.  | best_epoch 5 : best_SSIM 0.73348.
+current_epoch 5 : current_LPIPS 0.30793. | best_epoch 5 : best_LPIPS 0.30793.
+This epoch cost 285.74128 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 6 iter 1176: D1_loss 0.07698. | D2_loss 0.36339. | [1m[35mD_Total_loss[0m 4.40370. | L1_loss 0.08788 | Perceptual_loss 0.85099. | style_loss 0.00070. | Edge_loss 0.03770 | HSV_Total_loss 1.02813 | G_loss 0.09377. | [1m[35mG_Total_loss[0m 3.97544. | lr 1.000000e-03
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 6 : current_PSNR 18.13013. | best_epoch 6 : best_PSNR 18.13013.
+current_epoch 6 : current_SSIM 0.74931.  | best_epoch 6 : best_SSIM 0.74931.
+current_epoch 6 : current_LPIPS 0.23808. | best_epoch 6 : best_LPIPS 0.23808.
+This epoch cost 287.76589 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 7 iter 1372: D1_loss 0.09825. | D2_loss 0.35119. | [1m[35mD_Total_loss[0m 4.49439. | L1_loss 0.07961 | Perceptual_loss 0.94743. | style_loss 0.00074. | Edge_loss 0.03543 | HSV_Total_loss 1.03423 | G_loss 0.11045. | [1m[35mG_Total_loss[0m 3.85685. | lr 9.994539e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 7 : current_PSNR 19.14824. | best_epoch 7 : best_PSNR 19.14824.
+current_epoch 7 : current_SSIM 0.78239.  | best_epoch 7 : best_SSIM 0.78239.
+current_epoch 7 : current_LPIPS 0.22809. | best_epoch 7 : best_LPIPS 0.22809.
+This epoch cost 285.74609 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 8 iter 1568: D1_loss 0.08810. | D2_loss 0.37270. | [1m[35mD_Total_loss[0m 4.60798. | L1_loss 0.07197 | Perceptual_loss 0.67950. | style_loss 0.00072. | Edge_loss 0.02931 | HSV_Total_loss 1.00741 | G_loss 0.09517. | [1m[35mG_Total_loss[0m 3.48157. | lr 9.980896e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 8 : current_PSNR 18.62909. | best_epoch 7 : best_PSNR 19.14824.
+current_epoch 8 : current_SSIM 0.78602.  | best_epoch 8 : best_SSIM 0.78602.
+current_epoch 8 : current_LPIPS 0.21137. | best_epoch 8 : best_LPIPS 0.21137.
+This epoch cost 288.62167 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 9 iter 1764: D1_loss 0.11214. | D2_loss 0.45905. | [1m[35mD_Total_loss[0m 5.71190. | L1_loss 0.07765 | Perceptual_loss 0.61704. | style_loss 0.00077. | Edge_loss 0.03827 | HSV_Total_loss 1.19999 | G_loss 0.10788. | [1m[35mG_Total_loss[0m 3.84016. | lr 9.961818e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 9 : current_PSNR 18.52032. | best_epoch 7 : best_PSNR 19.14824.
+current_epoch 9 : current_SSIM 0.77755.  | best_epoch 8 : best_SSIM 0.78602.
+current_epoch 9 : current_LPIPS 0.22740. | best_epoch 8 : best_LPIPS 0.21137.
+This epoch cost 294.20519 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 10 iter 1960: D1_loss 0.10336. | D2_loss 0.38424. | [1m[35mD_Total_loss[0m 4.87593. | L1_loss 0.06711 | Perceptual_loss 0.56783. | style_loss 0.00074. | Edge_loss 0.02936 | HSV_Total_loss 1.03938 | G_loss 0.09339. | [1m[35mG_Total_loss[0m 3.36477. | lr 9.937325e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 10 : current_PSNR 18.95462. | best_epoch 7 : best_PSNR 19.14824.
+current_epoch 10 : current_SSIM 0.80003.  | best_epoch 10 : best_SSIM 0.80003.
+current_epoch 10 : current_LPIPS 0.18694. | best_epoch 10 : best_LPIPS 0.18694.
+This epoch cost 290.51783 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 11 iter 2156: D1_loss 0.10048. | D2_loss 0.29083. | [1m[35mD_Total_loss[0m 3.91310. | L1_loss 0.06605 | Perceptual_loss 0.48637. | style_loss 0.00070. | Edge_loss 0.02901 | HSV_Total_loss 1.02831 | G_loss 0.12293. | [1m[35mG_Total_loss[0m 3.57812. | lr 9.907446e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 11 : current_PSNR 20.13016. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 11 : current_SSIM 0.80718.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 11 : current_LPIPS 0.15830. | best_epoch 11 : best_LPIPS 0.15830.
+This epoch cost 288.00452 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 12 iter 2352: D1_loss 0.08623. | D2_loss 0.34749. | [1m[35mD_Total_loss[0m 4.33720. | L1_loss 0.06819 | Perceptual_loss 0.47099. | style_loss 0.00068. | Edge_loss 0.03258 | HSV_Total_loss 1.12638 | G_loss 0.09822. | [1m[35mG_Total_loss[0m 3.47402. | lr 9.872211e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 12 : current_PSNR 18.72213. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 12 : current_SSIM 0.79213.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 12 : current_LPIPS 0.17595. | best_epoch 11 : best_LPIPS 0.15830.
+This epoch cost 288.24946 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 13 iter 2548: D1_loss 0.08223. | D2_loss 0.32929. | [1m[35mD_Total_loss[0m 4.11523. | L1_loss 0.07238 | Perceptual_loss 0.51009. | style_loss 0.00069. | Edge_loss 0.03347 | HSV_Total_loss 0.96473 | G_loss 0.09983. | [1m[35mG_Total_loss[0m 3.38473. | lr 9.831660e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 13 : current_PSNR 19.53696. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 13 : current_SSIM 0.80347.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 13 : current_LPIPS 0.15869. | best_epoch 11 : best_LPIPS 0.15830.
+This epoch cost 286.37099 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 14 iter 2744: D1_loss 0.09563. | D2_loss 0.43777. | [1m[35mD_Total_loss[0m 5.33395. | L1_loss 0.08036 | Perceptual_loss 0.52657. | style_loss 0.00068. | Edge_loss 0.03292 | HSV_Total_loss 1.10342 | G_loss 0.08983. | [1m[35mG_Total_loss[0m 3.49559. | lr 9.785837e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 14 : current_PSNR 18.95757. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 14 : current_SSIM 0.80649.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 14 : current_LPIPS 0.17563. | best_epoch 11 : best_LPIPS 0.15830.
+This epoch cost 288.58370 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 15 iter 2940: D1_loss 0.09733. | D2_loss 0.29802. | [1m[35mD_Total_loss[0m 3.95357. | L1_loss 0.06074 | Perceptual_loss 0.42644. | style_loss 0.00067. | Edge_loss 0.02788 | HSV_Total_loss 0.79222 | G_loss 0.11286. | [1m[35mG_Total_loss[0m 3.15844. | lr 9.734793e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 15 : current_PSNR 19.20986. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 15 : current_SSIM 0.80098.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 15 : current_LPIPS 0.15105. | best_epoch 15 : best_LPIPS 0.15105.
+This epoch cost 286.99324 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 16 iter 3136: D1_loss 0.07884. | D2_loss 0.35840. | [1m[35mD_Total_loss[0m 4.37238. | L1_loss 0.06686 | Perceptual_loss 0.44978. | style_loss 0.00069. | Edge_loss 0.02874 | HSV_Total_loss 0.64895 | G_loss 0.09173. | [1m[35mG_Total_loss[0m 2.87543. | lr 9.678582e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 16 : current_PSNR 19.39276. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 16 : current_SSIM 0.80516.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 16 : current_LPIPS 0.15528. | best_epoch 15 : best_LPIPS 0.15105.
+This epoch cost 285.07471 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 17 iter 3332: D1_loss 0.07172. | D2_loss 0.40440. | [1m[35mD_Total_loss[0m 4.76126. | L1_loss 0.06469 | Perceptual_loss 0.46252. | style_loss 0.00068. | Edge_loss 0.03229 | HSV_Total_loss 0.76933 | G_loss 0.07968. | [1m[35mG_Total_loss[0m 2.88669. | lr 9.617267e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 17 : current_PSNR 18.99696. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 17 : current_SSIM 0.80631.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 17 : current_LPIPS 0.17351. | best_epoch 15 : best_LPIPS 0.15105.
+This epoch cost 287.84940 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 18 iter 3528: D1_loss 0.09399. | D2_loss 0.32738. | [1m[35mD_Total_loss[0m 4.21372. | L1_loss 0.06121 | Perceptual_loss 0.41960. | style_loss 0.00066. | Edge_loss 0.02666 | HSV_Total_loss 0.86885 | G_loss 0.10253. | [1m[35mG_Total_loss[0m 3.11212. | lr 9.550914e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 18 : current_PSNR 18.45009. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 18 : current_SSIM 0.79397.  | best_epoch 11 : best_SSIM 0.80718.
+current_epoch 18 : current_LPIPS 0.16064. | best_epoch 15 : best_LPIPS 0.15105.
+This epoch cost 288.33517 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 19 iter 3724: D1_loss 0.06515. | D2_loss 0.38645. | [1m[35mD_Total_loss[0m 4.51599. | L1_loss 0.07429 | Perceptual_loss 0.55393. | style_loss 0.00069. | Edge_loss 0.03647 | HSV_Total_loss 0.37803 | G_loss 0.06973. | [1m[35mG_Total_loss[0m 2.54270. | lr 9.479596e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 19 : current_PSNR 18.38027. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 19 : current_SSIM 0.80723.  | best_epoch 19 : best_SSIM 0.80723.
+current_epoch 19 : current_LPIPS 0.19644. | best_epoch 15 : best_LPIPS 0.15105.
+This epoch cost 286.64551 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 20 iter 3920: D1_loss 0.09624. | D2_loss 0.28453. | [1m[35mD_Total_loss[0m 3.80771. | L1_loss 0.06433 | Perceptual_loss 0.42272. | style_loss 0.00065. | Edge_loss 0.02802 | HSV_Total_loss 0.41910 | G_loss 0.10653. | [1m[35mG_Total_loss[0m 2.74452. | lr 9.403392e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 20 : current_PSNR 19.64368. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 20 : current_SSIM 0.81018.  | best_epoch 20 : best_SSIM 0.81018.
+current_epoch 20 : current_LPIPS 0.15096. | best_epoch 20 : best_LPIPS 0.15096.
+This epoch cost 283.62614 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 21 iter 4116: D1_loss 0.10213. | D2_loss 0.39452. | [1m[35mD_Total_loss[0m 4.96644. | L1_loss 0.07443 | Perceptual_loss 0.58441. | style_loss 0.00069. | Edge_loss 0.03519 | HSV_Total_loss 0.68728 | G_loss 0.10523. | [1m[35mG_Total_loss[0m 3.19641. | lr 9.322383e-04
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 21 : current_PSNR 18.53728. | best_epoch 11 : best_PSNR 20.13016.
+current_epoch 21 : current_SSIM 0.80729.  | best_epoch 20 : best_SSIM 0.81018.
+current_epoch 21 : current_LPIPS 0.18796. | best_epoch 20 : best_LPIPS 0.15096.
+This epoch cost 283.91906 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+Finished reloading the Epoch [1m[33m21[0m model
+Finished reloading the Epoch [1m[33m21[0m optimizer
+[1m[34m------------------------------------------------------------------[0m
+resume training with iterations: [1m[33m4116[0m, previous_epoch: [1m[33m21[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+epoch 22 iter 4312: D1_loss 0.07594. | D2_loss 0.38108. | [1m[35mD_Total_loss[0m 4.57020. | L1_loss 0.06600 | Perceptual_loss 0.43862. | style_loss 0.00069. | Edge_loss 0.02987 | HSV_Total_loss 0.27251 | G_loss 0.08031. | [1m[35mG_Total_loss[0m 2.38260. | lr 9.322383e-04 |SSI_loss 0.01330
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 22 : current_PSNR 19.24449. | best_epoch 22 : best_PSNR 19.24449.
+current_epoch 22 : current_SSIM 0.81947.  | best_epoch 22 : best_SSIM 0.81947.
+current_epoch 22 : current_LPIPS 0.16870. | best_epoch 22 : best_LPIPS 0.16870.
+This epoch cost 290.27585 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+Resume from Epoch 22
+epoch 23 iter 4508: D1_loss 0.09067. | D2_loss 0.40555. | [1m[35mD_Total_loss[0m 4.96223. | L1_loss 0.06972 | Perceptual_loss 0.49620. | style_loss 0.00074. | Edge_loss 0.03595 | HSV_Total_loss 0.87021 | G_loss 0.08956. | [1m[35mG_Total_loss[0m 3.18736. | lr 9.236660e-04 |SSI_loss 0.01306
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 23 : current_PSNR 19.03109. | best_epoch 22 : best_PSNR 19.24449.
+current_epoch 23 : current_SSIM 0.80210.  | best_epoch 22 : best_SSIM 0.81947.
+current_epoch 23 : current_LPIPS 0.16238. | best_epoch 23 : best_LPIPS 0.16238.
+This epoch cost 296.57042 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 24 iter 4704: D1_loss 0.09037. | D2_loss 0.33547. | [1m[35mD_Total_loss[0m 4.25838. | L1_loss 0.05739 | Perceptual_loss 0.35751. | style_loss 0.00063. | Edge_loss 0.02570 | HSV_Total_loss 1.06073 | G_loss 0.10048. | [1m[35mG_Total_loss[0m 3.22172. | lr 9.146315e-04 |SSI_loss 0.01322
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 24 : current_PSNR 19.95837. | best_epoch 24 : best_PSNR 19.95837.
+current_epoch 24 : current_SSIM 0.81754.  | best_epoch 22 : best_SSIM 0.81947.
+current_epoch 24 : current_LPIPS 0.13209. | best_epoch 24 : best_LPIPS 0.13209.
+This epoch cost 299.89982 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 25 iter 4900: D1_loss 0.08904. | D2_loss 0.36520. | [1m[35mD_Total_loss[0m 4.54247. | L1_loss 0.06539 | Perceptual_loss 0.40996. | style_loss 0.00069. | Edge_loss 0.03107 | HSV_Total_loss 1.19319 | G_loss 0.09075. | [1m[35mG_Total_loss[0m 3.41147. | lr 9.051448e-04 |SSI_loss 0.01321
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 25 : current_PSNR 18.91498. | best_epoch 24 : best_PSNR 19.95837.
+current_epoch 25 : current_SSIM 0.80001.  | best_epoch 22 : best_SSIM 0.81947.
+current_epoch 25 : current_LPIPS 0.15299. | best_epoch 24 : best_LPIPS 0.13209.
+This epoch cost 295.82768 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+Finished reloading the Epoch [1m[33m25[0m model
+Finished reloading the Epoch [1m[33m25[0m optimizer
+[1m[34m------------------------------------------------------------------[0m
+resume training with iterations: [1m[33m4900[0m, previous_epoch: [1m[33m25[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Finished reloading the Epoch [1m[33m25[0m model
+Finished reloading the Epoch [1m[33m25[0m optimizer
+[1m[34m------------------------------------------------------------------[0m
+resume training with iterations: [1m[33m4900[0m, previous_epoch: [1m[33m25[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Finished reloading the Epoch [1m[33m25[0m model
+Finished reloading the Epoch [1m[33m25[0m optimizer
+[1m[34m------------------------------------------------------------------[0m
+resume training with iterations: [1m[33m4900[0m, previous_epoch: [1m[33m25[0m
+[1m[34m------------------------------------------------------------------[0m
+Try load VGG mdoel for Perceptual_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load VGG mdoel for Style_loss
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+Try load alex mdoel for LPIPS
+[1m[34m-----------------------------[0m[1m[35m Loaded! [0m[1m[34m----------------------------[0m
+epoch 26 iter 5096: D1_loss 0.08275. | D2_loss 0.43408. | [1m[35mD_Total_loss[0m 5.16822. | L1_loss 0.04708 | Perceptual_loss 0.30199. | style_loss 0.00077. | Edge_loss 0.01476 | HSV_Total_loss 0.18966 | G_loss 0.07609. | [1m[35mG_Total_loss[0m 1.79150. | lr 8.952161e-04 |SSI_loss 0.00892
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 26 : current_PSNR 19.74434. | best_epoch 26 : best_PSNR 19.74434.
+current_epoch 26 : current_SSIM 0.82590.  | best_epoch 26 : best_SSIM 0.82590.
+current_epoch 26 : current_LPIPS 0.15693. | best_epoch 26 : best_LPIPS 0.15693.
+This epoch cost 298.61100 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+Resume from Epoch 26
+epoch 27 iter 5292: D1_loss 0.08095. | D2_loss 0.32278. | [1m[35mD_Total_loss[0m 4.03731. | L1_loss 0.05623 | Perceptual_loss 0.34786. | style_loss 0.00053. | Edge_loss 0.01652 | HSV_Total_loss 0.17167 | G_loss 0.07020. | [1m[35mG_Total_loss[0m 1.77143. | lr 8.848565e-04 |SSI_loss 0.01852
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 27 : current_PSNR 18.67719. | best_epoch 26 : best_PSNR 19.74434.
+current_epoch 27 : current_SSIM 0.80541.  | best_epoch 26 : best_SSIM 0.82590.
+current_epoch 27 : current_LPIPS 0.16818. | best_epoch 26 : best_LPIPS 0.15693.
+This epoch cost 297.74674 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 28 iter 5488: D1_loss 0.08189. | D2_loss 0.21041. | [1m[35mD_Total_loss[0m 2.92303. | L1_loss 0.03235 | Perceptual_loss 0.24172. | style_loss 0.00053. | Edge_loss 0.01181 | HSV_Total_loss 1.08698 | G_loss 0.07953. | [1m[35mG_Total_loss[0m 2.48113. | lr 8.740771e-04 |SSI_loss 0.01296
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 28 : current_PSNR 19.86016. | best_epoch 28 : best_PSNR 19.86016.
+current_epoch 28 : current_SSIM 0.83151.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 28 : current_LPIPS 0.13700. | best_epoch 28 : best_LPIPS 0.13700.
+This epoch cost 304.96971 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 29 iter 5684: D1_loss 0.09766. | D2_loss 0.43757. | [1m[35mD_Total_loss[0m 5.35231. | L1_loss 0.07757 | Perceptual_loss 0.37288. | style_loss 0.00100. | Edge_loss 0.02959 | HSV_Total_loss 0.28255 | G_loss 0.12505. | [1m[35mG_Total_loss[0m 2.89285. | lr 8.628898e-04 |SSI_loss 0.01103
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 29 : current_PSNR 19.54269. | best_epoch 28 : best_PSNR 19.86016.
+current_epoch 29 : current_SSIM 0.82092.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 29 : current_LPIPS 0.17548. | best_epoch 28 : best_LPIPS 0.13700.
+This epoch cost 313.23782 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 30 iter 5880: D1_loss 0.09445. | D2_loss 0.26060. | [1m[35mD_Total_loss[0m 3.55052. | L1_loss 0.03442 | Perceptual_loss 0.34725. | style_loss 0.00061. | Edge_loss 0.01100 | HSV_Total_loss 0.06939 | G_loss 0.08415. | [1m[35mG_Total_loss[0m 1.55647. | lr 8.513069e-04 |SSI_loss 0.03213
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 30 : current_PSNR 19.59184. | best_epoch 28 : best_PSNR 19.86016.
+current_epoch 30 : current_SSIM 0.80915.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 30 : current_LPIPS 0.12704. | best_epoch 30 : best_LPIPS 0.12704.
+This epoch cost 311.72422 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 31 iter 6076: D1_loss 0.08656. | D2_loss 0.19148. | [1m[35mD_Total_loss[0m 2.78039. | L1_loss 0.02974 | Perceptual_loss 0.27613. | style_loss 0.00051. | Edge_loss 0.00995 | HSV_Total_loss 0.25433 | G_loss 0.08613. | [1m[35mG_Total_loss[0m 1.67110. | lr 8.393409e-04 |SSI_loss 0.02620
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 31 : current_PSNR 20.07178. | best_epoch 31 : best_PSNR 20.07178.
+current_epoch 31 : current_SSIM 0.81808.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 31 : current_LPIPS 0.12641. | best_epoch 31 : best_LPIPS 0.12641.
+This epoch cost 311.53980 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 32 iter 6272: D1_loss 0.09481. | D2_loss 0.15011. | [1m[35mD_Total_loss[0m 2.44922. | L1_loss 0.03044 | Perceptual_loss 0.22189. | style_loss 0.00038. | Edge_loss 0.00894 | HSV_Total_loss 0.10209 | G_loss 0.07708. | [1m[35mG_Total_loss[0m 1.38363. | lr 8.270050e-04 |SSI_loss 0.00710
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 32 : current_PSNR 19.58178. | best_epoch 31 : best_PSNR 20.07178.
+current_epoch 32 : current_SSIM 0.81233.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 32 : current_LPIPS 0.13468. | best_epoch 31 : best_LPIPS 0.12641.
+This epoch cost 314.35088 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 33 iter 6468: D1_loss 0.10823. | D2_loss 0.20346. | [1m[35mD_Total_loss[0m 3.11688. | L1_loss 0.03882 | Perceptual_loss 0.23749. | style_loss 0.00064. | Edge_loss 0.01575 | HSV_Total_loss 0.16065 | G_loss 0.10027. | [1m[35mG_Total_loss[0m 1.89304. | lr 8.143127e-04 |SSI_loss 0.00664
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 33 : current_PSNR 19.89721. | best_epoch 31 : best_PSNR 20.07178.
+current_epoch 33 : current_SSIM 0.82202.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 33 : current_LPIPS 0.11937. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 316.91981 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 34 iter 6664: D1_loss 0.08717. | D2_loss 0.31655. | [1m[35mD_Total_loss[0m 4.03725. | L1_loss 0.04052 | Perceptual_loss 0.34669. | style_loss 0.00068. | Edge_loss 0.01632 | HSV_Total_loss 0.10266 | G_loss 0.08218. | [1m[35mG_Total_loss[0m 1.69872. | lr 8.012777e-04 |SSI_loss 0.00869
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 34 : current_PSNR 20.14341. | best_epoch 34 : best_PSNR 20.14341.
+current_epoch 34 : current_SSIM 0.82266.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 34 : current_LPIPS 0.12927. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 312.63236 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 35 iter 6860: D1_loss 0.08353. | D2_loss 0.12015. | [1m[35mD_Total_loss[0m 2.03678. | L1_loss 0.02788 | Perceptual_loss 0.20745. | style_loss 0.00054. | Edge_loss 0.00927 | HSV_Total_loss 0.33168 | G_loss 0.07246. | [1m[35mG_Total_loss[0m 1.58450. | lr 7.879145e-04 |SSI_loss 0.00917
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 35 : current_PSNR 20.50843. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 35 : current_SSIM 0.82509.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 35 : current_LPIPS 0.12439. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 316.38852 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 36 iter 7056: D1_loss 0.12185. | D2_loss 0.22047. | [1m[35mD_Total_loss[0m 3.42326. | L1_loss 0.04556 | Perceptual_loss 0.19180. | style_loss 0.00061. | Edge_loss 0.01204 | HSV_Total_loss 0.19864 | G_loss 0.10434. | [1m[35mG_Total_loss[0m 1.99139. | lr 7.742376e-04 |SSI_loss 0.00846
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 36 : current_PSNR 19.90768. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 36 : current_SSIM 0.81961.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 36 : current_LPIPS 0.13729. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 314.59108 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 37 iter 7252: D1_loss 0.12950. | D2_loss 0.42940. | [1m[35mD_Total_loss[0m 5.58898. | L1_loss 0.06107 | Perceptual_loss 0.27139. | style_loss 0.00083. | Edge_loss 0.02832 | HSV_Total_loss 0.25556 | G_loss 0.13262. | [1m[35mG_Total_loss[0m 2.71119. | lr 7.602619e-04 |SSI_loss 0.00924
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 37 : current_PSNR 19.72375. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 37 : current_SSIM 0.81731.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 37 : current_LPIPS 0.12546. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 307.35557 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 38 iter 7448: D1_loss 0.09674. | D2_loss 0.22789. | [1m[35mD_Total_loss[0m 3.24629. | L1_loss 0.03009 | Perceptual_loss 0.29030. | style_loss 0.00069. | Edge_loss 0.01019 | HSV_Total_loss 0.19182 | G_loss 0.09119. | [1m[35mG_Total_loss[0m 1.70997. | lr 7.460028e-04 |SSI_loss 0.02413
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 38 : current_PSNR 20.15331. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 38 : current_SSIM 0.82413.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 38 : current_LPIPS 0.11959. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 307.65207 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 39 iter 7644: D1_loss 0.10510. | D2_loss 0.16816. | [1m[35mD_Total_loss[0m 2.73261. | L1_loss 0.04330 | Perceptual_loss 0.30792. | style_loss 0.00048. | Edge_loss 0.00815 | HSV_Total_loss 0.34114 | G_loss 0.09304. | [1m[35mG_Total_loss[0m 1.93865. | lr 7.314757e-04 |SSI_loss 0.02181
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 39 : current_PSNR 20.22340. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 39 : current_SSIM 0.82591.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 39 : current_LPIPS 0.13008. | best_epoch 33 : best_LPIPS 0.11937.
+This epoch cost 315.12600 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 40 iter 7840: D1_loss 0.09087. | D2_loss 0.16265. | [1m[35mD_Total_loss[0m 2.53518. | L1_loss 0.02558 | Perceptual_loss 0.11684. | style_loss 0.00043. | Edge_loss 0.00877 | HSV_Total_loss 0.12810 | G_loss 0.08623. | [1m[35mG_Total_loss[0m 1.45467. | lr 7.166967e-04 |SSI_loss 0.00793
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 40 : current_PSNR 20.29451. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 40 : current_SSIM 0.82327.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 40 : current_LPIPS 0.11558. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 311.29312 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 41 iter 8036: D1_loss 0.12207. | D2_loss 0.38461. | [1m[35mD_Total_loss[0m 5.06683. | L1_loss 0.04944 | Perceptual_loss 0.32805. | style_loss 0.00101. | Edge_loss 0.02151 | HSV_Total_loss 0.26922 | G_loss 0.11039. | [1m[35mG_Total_loss[0m 2.37112. | lr 7.016819e-04 |SSI_loss 0.02040
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 41 : current_PSNR 19.33794. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 41 : current_SSIM 0.81342.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 41 : current_LPIPS 0.13252. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 314.13086 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 42 iter 8232: D1_loss 0.08744. | D2_loss 0.26593. | [1m[35mD_Total_loss[0m 3.53367. | L1_loss 0.03425 | Perceptual_loss 0.17813. | style_loss 0.00059. | Edge_loss 0.01149 | HSV_Total_loss 0.14599 | G_loss 0.09231. | [1m[35mG_Total_loss[0m 1.69208. | lr 6.864477e-04 |SSI_loss 0.00709
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 42 : current_PSNR 20.35582. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 42 : current_SSIM 0.82596.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 42 : current_LPIPS 0.11936. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 313.71621 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 43 iter 8428: D1_loss 0.13105. | D2_loss 0.22655. | [1m[35mD_Total_loss[0m 3.57594. | L1_loss 0.03540 | Perceptual_loss 0.19128. | style_loss 0.00073. | Edge_loss 0.01073 | HSV_Total_loss 0.18004 | G_loss 0.11948. | [1m[35mG_Total_loss[0m 2.03913. | lr 6.710106e-04 |SSI_loss 0.01341
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 43 : current_PSNR 19.78748. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 43 : current_SSIM 0.82604.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 43 : current_LPIPS 0.12683. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 311.31774 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 44 iter 8624: D1_loss 0.10207. | D2_loss 0.21943. | [1m[35mD_Total_loss[0m 3.21500. | L1_loss 0.02579 | Perceptual_loss 0.18522. | style_loss 0.00039. | Edge_loss 0.00692 | HSV_Total_loss 0.13553 | G_loss 0.09564. | [1m[35mG_Total_loss[0m 1.53806. | lr 6.553878e-04 |SSI_loss 0.03281
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 44 : current_PSNR 20.02077. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 44 : current_SSIM 0.82383.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 44 : current_LPIPS 0.11663. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 315.04515 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 45 iter 8820: D1_loss 0.09829. | D2_loss 0.19858. | [1m[35mD_Total_loss[0m 2.96868. | L1_loss 0.02737 | Perceptual_loss 0.20474. | style_loss 0.00057. | Edge_loss 0.00912 | HSV_Total_loss 0.21870 | G_loss 0.08832. | [1m[35mG_Total_loss[0m 1.63244. | lr 6.395961e-04 |SSI_loss 0.01566
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 45 : current_PSNR 19.91415. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 45 : current_SSIM 0.82254.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 45 : current_LPIPS 0.12217. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 310.82757 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 46 iter 9016: D1_loss 0.10242. | D2_loss 0.27725. | [1m[35mD_Total_loss[0m 3.79672. | L1_loss 0.04724 | Perceptual_loss 0.19447. | style_loss 0.00060. | Edge_loss 0.01546 | HSV_Total_loss 0.26171 | G_loss 0.09126. | [1m[35mG_Total_loss[0m 1.97145. | lr 6.236529e-04 |SSI_loss 0.00424
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 46 : current_PSNR 19.93110. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 46 : current_SSIM 0.82461.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 46 : current_LPIPS 0.12086. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 313.09980 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 47 iter 9212: D1_loss 0.10380. | D2_loss 0.45581. | [1m[35mD_Total_loss[0m 5.59610. | L1_loss 0.04262 | Perceptual_loss 0.23608. | style_loss 0.00072. | Edge_loss 0.01314 | HSV_Total_loss 0.10091 | G_loss 0.10514. | [1m[35mG_Total_loss[0m 1.91503. | lr 6.075756e-04 |SSI_loss 0.00686
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 47 : current_PSNR 20.05778. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 47 : current_SSIM 0.82596.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 47 : current_LPIPS 0.12239. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 312.69003 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 48 iter 9408: D1_loss 0.10814. | D2_loss 0.29767. | [1m[35mD_Total_loss[0m 4.05816. | L1_loss 0.03329 | Perceptual_loss 0.26432. | style_loss 0.00060. | Edge_loss 0.01095 | HSV_Total_loss 0.10905 | G_loss 0.10568. | [1m[35mG_Total_loss[0m 1.78523. | lr 5.913818e-04 |SSI_loss 0.00670
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 48 : current_PSNR 19.79185. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 48 : current_SSIM 0.82256.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 48 : current_LPIPS 0.12416. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 316.26671 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 49 iter 9604: D1_loss 0.11468. | D2_loss 0.32211. | [1m[35mD_Total_loss[0m 4.36783. | L1_loss 0.03994 | Perceptual_loss 0.23392. | style_loss 0.00067. | Edge_loss 0.01285 | HSV_Total_loss 0.17241 | G_loss 0.10215. | [1m[35mG_Total_loss[0m 1.91325. | lr 5.750892e-04 |SSI_loss 0.01232
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 49 : current_PSNR 20.12064. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 49 : current_SSIM 0.82203.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 49 : current_LPIPS 0.12332. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 314.48297 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 50 iter 9800: D1_loss 0.09369. | D2_loss 0.17895. | [1m[35mD_Total_loss[0m 2.72642. | L1_loss 0.02740 | Perceptual_loss 0.19403. | style_loss 0.00043. | Edge_loss 0.00849 | HSV_Total_loss 0.18860 | G_loss 0.08154. | [1m[35mG_Total_loss[0m 1.49148. | lr 5.587156e-04 |SSI_loss 0.01523
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 50 : current_PSNR 20.00998. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 50 : current_SSIM 0.82549.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 50 : current_LPIPS 0.11929. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 307.74933 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 51 iter 9996: D1_loss 0.11153. | D2_loss 0.19903. | [1m[35mD_Total_loss[0m 3.10562. | L1_loss 0.02903 | Perceptual_loss 0.17863. | style_loss 0.00059. | Edge_loss 0.00979 | HSV_Total_loss 0.15472 | G_loss 0.10112. | [1m[35mG_Total_loss[0m 1.72036. | lr 5.422789e-04 |SSI_loss 0.01963
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 51 : current_PSNR 19.66587. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 51 : current_SSIM 0.82061.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 51 : current_LPIPS 0.12370. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 306.69285 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 52 iter 10192: D1_loss 0.10758. | D2_loss 0.28910. | [1m[35mD_Total_loss[0m 3.96675. | L1_loss 0.03067 | Perceptual_loss 0.19214. | style_loss 0.00055. | Edge_loss 0.00889 | HSV_Total_loss 0.18550 | G_loss 0.09511. | [1m[35mG_Total_loss[0m 1.68890. | lr 5.257970e-04 |SSI_loss 0.00935
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 52 : current_PSNR 19.76996. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 52 : current_SSIM 0.82158.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 52 : current_LPIPS 0.12686. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 315.67227 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 53 iter 10388: D1_loss 0.12594. | D2_loss 0.17059. | [1m[35mD_Total_loss[0m 2.96530. | L1_loss 0.03129 | Perceptual_loss 0.15775. | style_loss 0.00057. | Edge_loss 0.01254 | HSV_Total_loss 0.10867 | G_loss 0.11552. | [1m[35mG_Total_loss[0m 1.86022. | lr 5.092881e-04 |SSI_loss 0.00581
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 53 : current_PSNR 19.72485. | best_epoch 35 : best_PSNR 20.50843.
+current_epoch 53 : current_SSIM 0.82236.  | best_epoch 28 : best_SSIM 0.83151.
+current_epoch 53 : current_LPIPS 0.12506. | best_epoch 40 : best_LPIPS 0.11558.
+This epoch cost 310.85797 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 54 iter 10584: D1_loss 0.10288. | D2_loss 0.14721. | [1m[35mD_Total_loss[0m 2.50094. | L1_loss 0.02338 | Perceptual_loss 0.16903. | style_loss 0.00039. | Edge_loss 0.00627 | HSV_Total_loss 0.10798 | G_loss 0.09499. | [1m[35mG_Total_loss[0m 1.47075. | lr 4.927701e-04 |SSI_loss 0.02310
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 54 : current_PSNR 20.58270. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 54 : current_SSIM 0.83184.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 54 : current_LPIPS 0.11046. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.53837 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 55 iter 10780: D1_loss 0.10940. | D2_loss 0.17333. | [1m[35mD_Total_loss[0m 2.82727. | L1_loss 0.02468 | Perceptual_loss 0.20401. | style_loss 0.00051. | Edge_loss 0.00685 | HSV_Total_loss 0.08924 | G_loss 0.09942. | [1m[35mG_Total_loss[0m 1.54809. | lr 4.762612e-04 |SSI_loss 0.01749
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 55 : current_PSNR 20.23558. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 55 : current_SSIM 0.82735.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 55 : current_LPIPS 0.11895. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.34518 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 56 iter 10976: D1_loss 0.09552. | D2_loss 0.25437. | [1m[35mD_Total_loss[0m 3.49891. | L1_loss 0.02774 | Perceptual_loss 0.26692. | style_loss 0.00059. | Edge_loss 0.00814 | HSV_Total_loss 0.08412 | G_loss 0.09389. | [1m[35mG_Total_loss[0m 1.56048. | lr 4.597793e-04 |SSI_loss 0.03401
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 56 : current_PSNR 20.17226. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 56 : current_SSIM 0.82757.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 56 : current_LPIPS 0.11469. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 310.75809 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 57 iter 11172: D1_loss 0.10093. | D2_loss 0.24627. | [1m[35mD_Total_loss[0m 3.47194. | L1_loss 0.02674 | Perceptual_loss 0.16995. | style_loss 0.00046. | Edge_loss 0.00798 | HSV_Total_loss 0.48743 | G_loss 0.09264. | [1m[35mG_Total_loss[0m 1.89434. | lr 4.433425e-04 |SSI_loss 0.02369
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 57 : current_PSNR 20.29098. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 57 : current_SSIM 0.82818.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 57 : current_LPIPS 0.11891. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 315.21122 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 58 iter 11368: D1_loss 0.11508. | D2_loss 0.25564. | [1m[35mD_Total_loss[0m 3.70723. | L1_loss 0.03207 | Perceptual_loss 0.14268. | style_loss 0.00075. | Edge_loss 0.01110 | HSV_Total_loss 0.08709 | G_loss 0.12098. | [1m[35mG_Total_loss[0m 1.93207. | lr 4.269688e-04 |SSI_loss 0.00815
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 58 : current_PSNR 20.43367. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 58 : current_SSIM 0.83017.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 58 : current_LPIPS 0.11487. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 312.15389 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 59 iter 11564: D1_loss 0.09574. | D2_loss 0.14341. | [1m[35mD_Total_loss[0m 2.39155. | L1_loss 0.02595 | Perceptual_loss 0.15594. | style_loss 0.00058. | Edge_loss 0.00780 | HSV_Total_loss 0.11967 | G_loss 0.08590. | [1m[35mG_Total_loss[0m 1.47731. | lr 4.106760e-04 |SSI_loss 0.01345
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 59 : current_PSNR 19.92798. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 59 : current_SSIM 0.82744.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 59 : current_LPIPS 0.12125. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 317.67124 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 60 iter 11760: D1_loss 0.08177. | D2_loss 0.15560. | [1m[35mD_Total_loss[0m 2.37371. | L1_loss 0.01975 | Perceptual_loss 0.12781. | style_loss 0.00039. | Edge_loss 0.00437 | HSV_Total_loss 0.04771 | G_loss 0.08041. | [1m[35mG_Total_loss[0m 1.20410. | lr 3.944819e-04 |SSI_loss 0.00931
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 60 : current_PSNR 20.35749. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 60 : current_SSIM 0.83031.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 60 : current_LPIPS 0.11554. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 312.36845 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 61 iter 11956: D1_loss 0.09782. | D2_loss 0.25119. | [1m[35mD_Total_loss[0m 3.49009. | L1_loss 0.03299 | Perceptual_loss 0.18458. | style_loss 0.00045. | Edge_loss 0.00663 | HSV_Total_loss 0.03641 | G_loss 0.08760. | [1m[35mG_Total_loss[0m 1.44027. | lr 3.784044e-04 |SSI_loss 0.01581
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 61 : current_PSNR 20.03855. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 61 : current_SSIM 0.82230.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 61 : current_LPIPS 0.11974. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.77557 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 62 iter 12152: D1_loss 0.07628. | D2_loss 0.17686. | [1m[35mD_Total_loss[0m 2.53147. | L1_loss 0.02179 | Perceptual_loss 0.18686. | style_loss 0.00043. | Edge_loss 0.00623 | HSV_Total_loss 0.26837 | G_loss 0.06683. | [1m[35mG_Total_loss[0m 1.34514. | lr 3.624609e-04 |SSI_loss 0.01391
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 62 : current_PSNR 19.92454. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 62 : current_SSIM 0.82197.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 62 : current_LPIPS 0.12203. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.70162 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 63 iter 12348: D1_loss 0.12511. | D2_loss 0.33325. | [1m[35mD_Total_loss[0m 4.58365. | L1_loss 0.03741 | Perceptual_loss 0.22970. | style_loss 0.00069. | Edge_loss 0.01304 | HSV_Total_loss 0.19772 | G_loss 0.11756. | [1m[35mG_Total_loss[0m 2.07354. | lr 3.466689e-04 |SSI_loss 0.00816
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 63 : current_PSNR 20.25953. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 63 : current_SSIM 0.82714.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 63 : current_LPIPS 0.11656. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 310.18012 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 64 iter 12544: D1_loss 0.11985. | D2_loss 0.21205. | [1m[35mD_Total_loss[0m 3.31901. | L1_loss 0.02441 | Perceptual_loss 0.15502. | style_loss 0.00052. | Edge_loss 0.00581 | HSV_Total_loss 0.11383 | G_loss 0.11149. | [1m[35mG_Total_loss[0m 1.67596. | lr 3.310457e-04 |SSI_loss 0.00670
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 64 : current_PSNR 20.08517. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 64 : current_SSIM 0.82522.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 64 : current_LPIPS 0.12289. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.63689 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 65 iter 12740: D1_loss 0.08743. | D2_loss 0.27030. | [1m[35mD_Total_loss[0m 3.57730. | L1_loss 0.02257 | Perceptual_loss 0.21290. | style_loss 0.00039. | Edge_loss 0.00593 | HSV_Total_loss 0.03339 | G_loss 0.07530. | [1m[35mG_Total_loss[0m 1.19413. | lr 3.156082e-04 |SSI_loss 0.04161
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 65 : current_PSNR 20.12014. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 65 : current_SSIM 0.82197.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 65 : current_LPIPS 0.12632. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 319.57823 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 66 iter 12936: D1_loss 0.10318. | D2_loss 0.13110. | [1m[35mD_Total_loss[0m 2.34280. | L1_loss 0.02187 | Perceptual_loss 0.12175. | style_loss 0.00034. | Edge_loss 0.00489 | HSV_Total_loss 0.09749 | G_loss 0.09607. | [1m[35mG_Total_loss[0m 1.42560. | lr 3.003735e-04 |SSI_loss 0.01876
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 66 : current_PSNR 20.24253. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 66 : current_SSIM 0.82738.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 66 : current_LPIPS 0.12271. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.69471 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 67 iter 13132: D1_loss 0.09917. | D2_loss 0.38335. | [1m[35mD_Total_loss[0m 4.82520. | L1_loss 0.02886 | Perceptual_loss 0.19406. | style_loss 0.00050. | Edge_loss 0.00907 | HSV_Total_loss 0.18443 | G_loss 0.09253. | [1m[35mG_Total_loss[0m 1.63431. | lr 2.853582e-04 |SSI_loss 0.01304
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 67 : current_PSNR 20.12478. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 67 : current_SSIM 0.82687.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 67 : current_LPIPS 0.11841. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.63827 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 68 iter 13328: D1_loss 0.10371. | D2_loss 0.14208. | [1m[35mD_Total_loss[0m 2.45788. | L1_loss 0.02134 | Perceptual_loss 0.14903. | style_loss 0.00045. | Edge_loss 0.00635 | HSV_Total_loss 0.06738 | G_loss 0.09563. | [1m[35mG_Total_loss[0m 1.43054. | lr 2.705786e-04 |SSI_loss 0.02081
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 68 : current_PSNR 20.21222. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 68 : current_SSIM 0.82600.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 68 : current_LPIPS 0.12068. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.82489 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 69 iter 13524: D1_loss 0.09424. | D2_loss 0.22381. | [1m[35mD_Total_loss[0m 3.18050. | L1_loss 0.02673 | Perceptual_loss 0.18079. | style_loss 0.00056. | Edge_loss 0.00791 | HSV_Total_loss 0.06056 | G_loss 0.08096. | [1m[35mG_Total_loss[0m 1.37533. | lr 2.560510e-04 |SSI_loss 0.01670
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 69 : current_PSNR 20.07350. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 69 : current_SSIM 0.82583.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 69 : current_LPIPS 0.12194. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.55096 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 70 iter 13720: D1_loss 0.10530. | D2_loss 0.18946. | [1m[35mD_Total_loss[0m 2.94754. | L1_loss 0.01897 | Perceptual_loss 0.14742. | style_loss 0.00038. | Edge_loss 0.00589 | HSV_Total_loss 0.10354 | G_loss 0.09712. | [1m[35mG_Total_loss[0m 1.43406. | lr 2.417911e-04 |SSI_loss 0.01694
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 70 : current_PSNR 20.05164. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 70 : current_SSIM 0.82598.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 70 : current_LPIPS 0.12230. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.78894 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 71 iter 13916: D1_loss 0.08532. | D2_loss 0.08459. | [1m[35mD_Total_loss[0m 1.69911. | L1_loss 0.01376 | Perceptual_loss 0.09627. | style_loss 0.00029. | Edge_loss 0.00295 | HSV_Total_loss 0.04602 | G_loss 0.07861. | [1m[35mG_Total_loss[0m 1.08209. | lr 2.278147e-04 |SSI_loss 0.01028
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 71 : current_PSNR 20.53478. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 71 : current_SSIM 0.82999.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 71 : current_LPIPS 0.11631. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.29516 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 72 iter 14112: D1_loss 0.09946. | D2_loss 0.19083. | [1m[35mD_Total_loss[0m 2.90295. | L1_loss 0.01861 | Perceptual_loss 0.17493. | style_loss 0.00038. | Edge_loss 0.00450 | HSV_Total_loss 0.11131 | G_loss 0.08691. | [1m[35mG_Total_loss[0m 1.32418. | lr 2.141369e-04 |SSI_loss 0.00905
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 72 : current_PSNR 20.36497. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 72 : current_SSIM 0.82858.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 72 : current_LPIPS 0.11861. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.69995 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 73 iter 14308: D1_loss 0.12033. | D2_loss 0.62825. | [1m[35mD_Total_loss[0m 7.48575. | L1_loss 0.04250 | Perceptual_loss 0.19531. | style_loss 0.00091. | Edge_loss 0.01337 | HSV_Total_loss 0.08739 | G_loss 0.10180. | [1m[35mG_Total_loss[0m 1.91121. | lr 2.007728e-04 |SSI_loss 0.01070
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 73 : current_PSNR 20.27182. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 73 : current_SSIM 0.82814.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 73 : current_LPIPS 0.12120. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 309.29891 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 74 iter 14504: D1_loss 0.11915. | D2_loss 0.20762. | [1m[35mD_Total_loss[0m 3.26767. | L1_loss 0.02226 | Perceptual_loss 0.13225. | style_loss 0.00046. | Edge_loss 0.00471 | HSV_Total_loss 0.09235 | G_loss 0.10443. | [1m[35mG_Total_loss[0m 1.53541. | lr 1.877369e-04 |SSI_loss 0.00343
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 74 : current_PSNR 20.27783. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 74 : current_SSIM 0.82694.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 74 : current_LPIPS 0.11745. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.90017 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 75 iter 14700: D1_loss 0.10903. | D2_loss 0.24747. | [1m[35mD_Total_loss[0m 3.56507. | L1_loss 0.02718 | Perceptual_loss 0.14516. | style_loss 0.00044. | Edge_loss 0.00734 | HSV_Total_loss 0.02752 | G_loss 0.10512. | [1m[35mG_Total_loss[0m 1.55206. | lr 1.750435e-04 |SSI_loss 0.02673
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 75 : current_PSNR 20.23595. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 75 : current_SSIM 0.82757.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 75 : current_LPIPS 0.11992. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 307.06636 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 76 iter 14896: D1_loss 0.10584. | D2_loss 0.38706. | [1m[35mD_Total_loss[0m 4.92895. | L1_loss 0.03632 | Perceptual_loss 0.15987. | style_loss 0.00063. | Edge_loss 0.01207 | HSV_Total_loss 0.21436 | G_loss 0.10238. | [1m[35mG_Total_loss[0m 1.89517. | lr 1.627064e-04 |SSI_loss 0.00826
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 76 : current_PSNR 20.31378. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 76 : current_SSIM 0.82782.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 76 : current_LPIPS 0.11928. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 310.99444 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 77 iter 15092: D1_loss 0.15817. | D2_loss 0.75469. | [1m[35mD_Total_loss[0m 9.12853. | L1_loss 0.04343 | Perceptual_loss 0.18071. | style_loss 0.00078. | Edge_loss 0.01200 | HSV_Total_loss 0.26812 | G_loss 0.13407. | [1m[35mG_Total_loss[0m 2.37661. | lr 1.507392e-04 |SSI_loss 0.00647
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 77 : current_PSNR 20.31665. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 77 : current_SSIM 0.82976.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 77 : current_LPIPS 0.11906. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.41254 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 78 iter 15288: D1_loss 0.09767. | D2_loss 0.20774. | [1m[35mD_Total_loss[0m 3.05409. | L1_loss 0.02125 | Perceptual_loss 0.17067. | style_loss 0.00044. | Edge_loss 0.00591 | HSV_Total_loss 0.43348 | G_loss 0.08740. | [1m[35mG_Total_loss[0m 1.70743. | lr 1.391548e-04 |SSI_loss 0.02007
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 78 : current_PSNR 20.15698. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 78 : current_SSIM 0.82621.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 78 : current_LPIPS 0.12195. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.25192 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 79 iter 15484: D1_loss 0.10291. | D2_loss 0.18518. | [1m[35mD_Total_loss[0m 2.88093. | L1_loss 0.02157 | Perceptual_loss 0.15909. | style_loss 0.00050. | Edge_loss 0.00708 | HSV_Total_loss 0.06855 | G_loss 0.09149. | [1m[35mG_Total_loss[0m 1.41278. | lr 1.279660e-04 |SSI_loss 0.01436
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 79 : current_PSNR 20.25825. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 79 : current_SSIM 0.82753.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 79 : current_LPIPS 0.11961. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 308.89049 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 80 iter 15680: D1_loss 0.08595. | D2_loss 0.24363. | [1m[35mD_Total_loss[0m 3.29580. | L1_loss 0.02151 | Perceptual_loss 0.08647. | style_loss 0.00038. | Edge_loss 0.00587 | HSV_Total_loss 0.10873 | G_loss 0.06728. | [1m[35mG_Total_loss[0m 1.15905. | lr 1.171849e-04 |SSI_loss 0.00740
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 80 : current_PSNR 20.24703. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 80 : current_SSIM 0.82701.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 80 : current_LPIPS 0.12052. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 315.35628 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 81 iter 15876: D1_loss 0.10066. | D2_loss 0.22706. | [1m[35mD_Total_loss[0m 3.27717. | L1_loss 0.01980 | Perceptual_loss 0.15288. | style_loss 0.00038. | Edge_loss 0.00479 | HSV_Total_loss 0.11394 | G_loss 0.08362. | [1m[35mG_Total_loss[0m 1.30680. | lr 1.068234e-04 |SSI_loss 0.00588
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 81 : current_PSNR 20.25899. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 81 : current_SSIM 0.82801.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 81 : current_LPIPS 0.11965. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 311.09430 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 82 iter 16072: D1_loss 0.10554. | D2_loss 0.37281. | [1m[35mD_Total_loss[0m 4.78349. | L1_loss 0.02898 | Perceptual_loss 0.16230. | style_loss 0.00053. | Edge_loss 0.00754 | HSV_Total_loss 0.02907 | G_loss 0.09161. | [1m[35mG_Total_loss[0m 1.46186. | lr 9.689265e-05 |SSI_loss 0.02486
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 82 : current_PSNR 20.38130. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 82 : current_SSIM 0.82874.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 82 : current_LPIPS 0.11964. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 315.86609 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 83 iter 16268: D1_loss 0.10142. | D2_loss 0.27799. | [1m[35mD_Total_loss[0m 3.79404. | L1_loss 0.02020 | Perceptual_loss 0.22481. | style_loss 0.00040. | Edge_loss 0.00466 | HSV_Total_loss 0.05176 | G_loss 0.08124. | [1m[35mG_Total_loss[0m 1.23654. | lr 8.740359e-05 |SSI_loss 0.02130
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 83 : current_PSNR 20.28096. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 83 : current_SSIM 0.82775.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 83 : current_LPIPS 0.12208. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.67128 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 84 iter 16464: D1_loss 0.09950. | D2_loss 0.19929. | [1m[35mD_Total_loss[0m 2.98790. | L1_loss 0.01954 | Perceptual_loss 0.19482. | style_loss 0.00044. | Edge_loss 0.00546 | HSV_Total_loss 0.09051 | G_loss 0.08629. | [1m[35mG_Total_loss[0m 1.33506. | lr 7.836652e-05 |SSI_loss 0.03040
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 84 : current_PSNR 20.21410. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 84 : current_SSIM 0.82716.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 84 : current_LPIPS 0.12037. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 309.76033 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 85 iter 16660: D1_loss 0.10160. | D2_loss 0.15976. | [1m[35mD_Total_loss[0m 2.61361. | L1_loss 0.01655 | Perceptual_loss 0.08433. | style_loss 0.00027. | Edge_loss 0.00384 | HSV_Total_loss 0.03044 | G_loss 0.08987. | [1m[35mG_Total_loss[0m 1.20915. | lr 6.979128e-05 |SSI_loss 0.00651
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 85 : current_PSNR 20.27989. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 85 : current_SSIM 0.82791.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 85 : current_LPIPS 0.12070. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 314.53904 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 86 iter 16856: D1_loss 0.10641. | D2_loss 0.58537. | [1m[35mD_Total_loss[0m 6.91782. | L1_loss 0.04238 | Perceptual_loss 0.18708. | style_loss 0.00084. | Edge_loss 0.01456 | HSV_Total_loss 0.14701 | G_loss 0.09523. | [1m[35mG_Total_loss[0m 1.89831. | lr 6.168718e-05 |SSI_loss 0.01121
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 86 : current_PSNR 20.24706. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 86 : current_SSIM 0.82764.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 86 : current_LPIPS 0.12016. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 319.77175 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 87 iter 17052: D1_loss 0.11245. | D2_loss 0.14883. | [1m[35mD_Total_loss[0m 2.61285. | L1_loss 0.01891 | Perceptual_loss 0.13561. | style_loss 0.00042. | Edge_loss 0.00460 | HSV_Total_loss 0.27546 | G_loss 0.09438. | [1m[35mG_Total_loss[0m 1.57250. | lr 5.406303e-05 |SSI_loss 0.00321
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 87 : current_PSNR 20.37235. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 87 : current_SSIM 0.82845.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 87 : current_LPIPS 0.11981. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.22942 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 88 iter 17248: D1_loss 0.10362. | D2_loss 0.15547. | [1m[35mD_Total_loss[0m 2.59097. | L1_loss 0.01878 | Perceptual_loss 0.16382. | style_loss 0.00044. | Edge_loss 0.00510 | HSV_Total_loss 0.09346 | G_loss 0.09111. | [1m[35mG_Total_loss[0m 1.37048. | lr 4.692706e-05 |SSI_loss 0.01831
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 88 : current_PSNR 20.27137. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 88 : current_SSIM 0.82749.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 88 : current_LPIPS 0.12067. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 313.00000 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 89 iter 17444: D1_loss 0.11149. | D2_loss 0.31277. | [1m[35mD_Total_loss[0m 4.24259. | L1_loss 0.02120 | Perceptual_loss 0.14331. | style_loss 0.00049. | Edge_loss 0.00403 | HSV_Total_loss 0.06851 | G_loss 0.09499. | [1m[35mG_Total_loss[0m 1.40881. | lr 4.028697e-05 |SSI_loss 0.00649
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 89 : current_PSNR 20.29686. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 89 : current_SSIM 0.82807.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 89 : current_LPIPS 0.12136. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 308.31825 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 90 iter 17640: D1_loss 0.11330. | D2_loss 0.34272. | [1m[35mD_Total_loss[0m 4.56016. | L1_loss 0.02627 | Perceptual_loss 0.19077. | style_loss 0.00061. | Edge_loss 0.00685 | HSV_Total_loss 0.26239 | G_loss 0.10582. | [1m[35mG_Total_loss[0m 1.82551. | lr 3.414987e-05 |SSI_loss 0.01241
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 90 : current_PSNR 20.36152. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 90 : current_SSIM 0.82866.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 90 : current_LPIPS 0.11910. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 310.56149 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 91 iter 17836: D1_loss 0.10106. | D2_loss 0.21977. | [1m[35mD_Total_loss[0m 3.20823. | L1_loss 0.02234 | Perceptual_loss 0.12585. | style_loss 0.00040. | Edge_loss 0.00580 | HSV_Total_loss 0.04580 | G_loss 0.09192. | [1m[35mG_Total_loss[0m 1.36010. | lr 2.852229e-05 |SSI_loss 0.01820
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 91 : current_PSNR 20.29131. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 91 : current_SSIM 0.82761.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 91 : current_LPIPS 0.12120. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 316.73394 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 92 iter 18032: D1_loss 0.09407. | D2_loss 0.10632. | [1m[35mD_Total_loss[0m 2.00387. | L1_loss 0.01472 | Perceptual_loss 0.09707. | style_loss 0.00034. | Edge_loss 0.00417 | HSV_Total_loss 0.07837 | G_loss 0.08457. | [1m[35mG_Total_loss[0m 1.20833. | lr 2.341011e-05 |SSI_loss 0.00957
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 92 : current_PSNR 20.30313. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 92 : current_SSIM 0.82790.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 92 : current_LPIPS 0.12064. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 310.62021 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 93 iter 18228: D1_loss 0.11398. | D2_loss 0.39867. | [1m[35mD_Total_loss[0m 5.12651. | L1_loss 0.02850 | Perceptual_loss 0.19064. | style_loss 0.00068. | Edge_loss 0.00861 | HSV_Total_loss 0.09978 | G_loss 0.09785. | [1m[35mG_Total_loss[0m 1.64080. | lr 1.881858e-05 |SSI_loss 0.01737
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 93 : current_PSNR 20.32832. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 93 : current_SSIM 0.82810.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 93 : current_LPIPS 0.12078. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 307.86923 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 94 iter 18424: D1_loss 0.10607. | D2_loss 0.26760. | [1m[35mD_Total_loss[0m 3.73666. | L1_loss 0.02230 | Perceptual_loss 0.17005. | style_loss 0.00048. | Edge_loss 0.00599 | HSV_Total_loss 0.06030 | G_loss 0.09423. | [1m[35mG_Total_loss[0m 1.42600. | lr 1.475220e-05 |SSI_loss 0.02736
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 94 : current_PSNR 20.34672. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 94 : current_SSIM 0.82850.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 94 : current_LPIPS 0.11955. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 308.42061 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 95 iter 18620: D1_loss 0.10185. | D2_loss 0.21571. | [1m[35mD_Total_loss[0m 3.17561. | L1_loss 0.02176 | Perceptual_loss 0.13444. | style_loss 0.00048. | Edge_loss 0.00687 | HSV_Total_loss 0.20637 | G_loss 0.09084. | [1m[35mG_Total_loss[0m 1.53559. | lr 1.121467e-05 |SSI_loss 0.00800
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 95 : current_PSNR 20.32784. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 95 : current_SSIM 0.82820.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 95 : current_LPIPS 0.12018. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 312.14174 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 96 iter 18816: D1_loss 0.10842. | D2_loss 0.17822. | [1m[35mD_Total_loss[0m 2.86641. | L1_loss 0.01658 | Perceptual_loss 0.12616. | style_loss 0.00041. | Edge_loss 0.00376 | HSV_Total_loss 0.17725 | G_loss 0.09720. | [1m[35mG_Total_loss[0m 1.46950. | lr 8.208694e-06 |SSI_loss 0.01108
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 96 : current_PSNR 20.30872. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 96 : current_SSIM 0.82795.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 96 : current_LPIPS 0.12062. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 308.35372 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 97 iter 19012: D1_loss 0.11289. | D2_loss 0.46815. | [1m[35mD_Total_loss[0m 5.81038. | L1_loss 0.02914 | Perceptual_loss 0.21046. | style_loss 0.00060. | Edge_loss 0.00788 | HSV_Total_loss 0.07193 | G_loss 0.09560. | [1m[35mG_Total_loss[0m 1.57210. | lr 5.735670e-06 |SSI_loss 0.02566
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 97 : current_PSNR 20.30994. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 97 : current_SSIM 0.82797.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 97 : current_LPIPS 0.12042. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 309.93621 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 98 iter 19208: D1_loss 0.10584. | D2_loss 0.42793. | [1m[35mD_Total_loss[0m 5.33766. | L1_loss 0.03240 | Perceptual_loss 0.17494. | style_loss 0.00062. | Edge_loss 0.00849 | HSV_Total_loss 0.37302 | G_loss 0.09513. | [1m[35mG_Total_loss[0m 1.90767. | lr 3.794995e-06 |SSI_loss 0.01308
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 98 : current_PSNR 20.27816. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 98 : current_SSIM 0.82778.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 98 : current_LPIPS 0.12146. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 308.92497 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 99 iter 19404: D1_loss 0.10452. | D2_loss 0.25738. | [1m[35mD_Total_loss[0m 3.61893. | L1_loss 0.02623 | Perceptual_loss 0.14077. | style_loss 0.00056. | Edge_loss 0.00710 | HSV_Total_loss 0.09806 | G_loss 0.09800. | [1m[35mG_Total_loss[0m 1.56669. | lr 2.382433e-06 |SSI_loss 0.00624
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 99 : current_PSNR 20.30255. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 99 : current_SSIM 0.82810.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 99 : current_LPIPS 0.12049. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 312.66872 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+epoch 100 iter 19600: D1_loss 0.09744. | D2_loss 0.09468. | [1m[35mD_Total_loss[0m 1.92120. | L1_loss 0.00971 | Perceptual_loss 0.10662. | style_loss 0.00020. | Edge_loss 0.00139 | HSV_Total_loss 0.10564 | G_loss 0.08316. | [1m[35mG_Total_loss[0m 1.11117. | lr 1.485596e-06 |SSI_loss 0.02635
+[1m[34m------------------[0m[1m[36m Start EVAL! [0m[1m[34m----------------------------[0m
+current_epoch 100 : current_PSNR 20.29857. | best_epoch 54 : best_PSNR 20.58270.
+current_epoch 100 : current_SSIM 0.82776.  | best_epoch 54 : best_SSIM 0.83184.
+current_epoch 100 : current_LPIPS 0.12081. | best_epoch 54 : best_LPIPS 0.11046.
+This epoch cost 307.27920 seconds!
+[1m[34m------------------------------[0m[1m[36m End EVAL! [0m[1m[34m--------------------------------------[0m
+
+ --------------------- Total time cost 6.50418 HR! ----------------------
+ -------------------------- ALL TRAINING IS DONE!! --------------------------

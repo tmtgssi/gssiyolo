@@ -1,0 +1,13 @@
+train: /home/philipslinux/Documents/trieu_others/dataset_saffron/open_close/train/images
+val: /home/philipslinux/Documents/trieu_others/dataset_saffron/open_close/valid/images
+test: /home/philipslinux/Documents/trieu_others/dataset_saffron/open_close/test/images
+
+nc: 3
+names: ['_','saffron closed', 'saffron open']
+
+roboflow:
+  workspace: saffron-fmoki
+  project: dslfkdsjhpop
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/saffron-fmoki/dslfkdsjhpop/dataset/4

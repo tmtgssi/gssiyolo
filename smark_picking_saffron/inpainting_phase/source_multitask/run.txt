@@ -1,0 +1,6 @@
+
+python train.py (main setting data_path/mask_path/val_path/val_mask_path/batch_size/train_epoch)
+
+
+python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_path)
+

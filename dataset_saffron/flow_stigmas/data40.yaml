@@ -1,0 +1,13 @@
+train: /home/philipslinux/Documents/cae/dataset_saffron/flow_stigmas/train_permutated_40/images
+val: /home/philipslinux/Documents/cae/dataset_saffron/flow_stigmas/valid/images
+test: /home/philipslinux/Documents/cae/dataset_saffron/flow_stigmas/test/images
+
+nc: 2
+names: ['Flower', 'stigma']
+
+roboflow:
+  workspace: jaspreet-drxjo
+  project: saffron-teuxt
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jaspreet-drxjo/saffron-teuxt/dataset/3

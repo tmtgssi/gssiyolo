@@ -1,0 +1,75 @@
+#GPU ID
+gpu: 0
+world_size: 1
+# The name of this exp
+name: 'SWMHT_Net'
+ckpt_path: './ckpt/'
+
+# The config file of each experiment
+config_path: './config_list/'
+ssi_file: '../dataset_masked/metadata/sentence_embeddings.csv'
+# start from where, the default is latest
+resume_ckpt: ./ckpt/SWMHT_Net/model_last.pth
+resume_D_ckpt: ./ckpt/SWMHT_Net/Discriminator_last.pth
+test_ckpt: ./ckpt/SWMHT_Net/model_bestPSNR.pth
+
+# data_path & mask_path should be .txt
+data_path: '../dataset_masked/txt/train_path.txt'
+mask_path: '../dataset_masked/txt/train_mask_path.txt'
+
+# Train
+batch_size: 3
+train_epoch: 100
+weight_decay : 0.1
+learning_rate: 0.001
+lr_decay : True
+lr_min: 1e-6
+warmup_epoch : 5
+D_learning_rate: 0.001
+D_lr_decay : True
+D_lr_min: 1e-6
+D_warmup_epoch : 2
+grad_norm_clip: 1.0
+# Loss
+Lambda_LD1  : 10
+Lambda_LD2  : 10
+Lambda_L1: 10
+Lambda_Perceptual: 0.1
+Lambda_LG  : 10
+Lambda_Style: 250
+Lambda_Edge: 10
+Lambda_HSV: 10
+Lambda_LHSV: 1
+
+Lambda_SSI: 0.1
+
+# checkpoint settings
+num_workers : 0
+# Define the size of transformer
+n_layer: 2
+n_embd: 128
+n_head: 8   #8>4
+embd_pdrop: 0.0
+resid_pdrop: 0.0
+attn_pdrop: 0.0
+block_size: 32
+nChannel: 3
+nDenselayer: 4
+nFeat: 128
+scale: 1
+growthRate: 32
+# cswin transformer
+num_layers: 4
+split_size: [4, 8, 16, 32]
+head: [2, 4, 8, 16]
+dim: 128
+loop_time: [8, 4, 2, 1] # 1 2 21 1
+
+# where is the validation set of ImageNet
+val_path: '../dataset_masked/txt/val_path.txt'
+val_mask_path: '../dataset_masked/txt/val_mask_path.txt'
+test_path: '../dataset_masked/txt/test_path.txt'
+test_mask_1~60_path: '../dataset_masked/txt/test_mask_path.txt'
+save_img_path: './inpaint_results/' #'E:/subproject20220725_output/'
+image_size: 256
+
