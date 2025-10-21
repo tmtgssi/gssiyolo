@@ -48,7 +48,7 @@ smark_picking_saffron/detection_phase/test.ipynb
 Training involves two main steps:
 
 🔧 Step 1:  Inpainting Phase
-This phase prepares weights to be used in YOLO backbone for semantic-level feature learning.
+This phase prepares weights to be used in the YOLO backbone for sentence-level semantic information learning.
 
 smark_picking_saffron/inpainting_phase/source_multitask/run.txt
 
@@ -60,7 +60,7 @@ smark_picking_saffron/detection_phase/ultralytics/nn/modules/block.py
 
 Line 1962, please replace the placeholder path with the actual path to the trained weights. ^^
 
-🏁 Step 3: Train YOLO with GSSI
+🏁 Step 3: Train GSSI-YOLO
 
 smark_picking_saffron/detection_phase/train.ipynb
 
