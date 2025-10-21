@@ -1,4 +1,4 @@
-Geometric and Sentence-level Semantic Information Transfer Learning for YOLO-Based Saffron Stigma Detection
+# Geometric and Sentence-level Semantic Information Transfer Learning for YOLO-Based Saffron Stigma Detection
 
 This repository accompanies the project:
 
