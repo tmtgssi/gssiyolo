@@ -6,8 +6,6 @@ This repository accompanies the project:
 
 Our method introduces a novel Geometric and Sentence-Level Semantic Information (GSSI-YOLO) transfer learning strategy, enabling the network to capture rich contextual and structural features. This approach enhances the model's ability to distinguish fine-grained visual patterns in complex backgrounds — a key challenge in saffron detection.
 
-Extensive experiments on benchmark and custom-collected datasets demonstrate that our proposed method achieves state-of-the-art accuracy while delivering the fastest inference time among current leading object detectors.
-
 📂 Contents
 
 🧠 inpainting_phase/source_multitask/run.txt — Train multitask inpainting model for semantic feature extraction.
