@@ -19,11 +19,17 @@ smark_picking_saffron/detection_phase/runs/detect/train6/weights/
 ⚙️ Environment Setup
 
 We recommend creating a virtual environment (conda or venv) and installing the required dependencies. Example requirements include:
+
 torch==2.5.0
+
 torchvision==0.20.0
+
 opencv-python
+
 numpy
+
 matplotlib
+
 ultralytics==8.0.190
 
 
